@@ -21,6 +21,21 @@ This ebook aims to solve these by providing a significantly enhanced reading and
     *   Professional Resources
     *   Parenting & Family (specifically for parents of children with disabilities)
 
+## 3.1. Final Genre & Niche Specification
+*   **Primary Confirmed Genre:** Reference (Legal/Regulatory Reference)
+*   **Confirmed Key Sub-Genres/Niches:**
+    *   Law (specifically Education Law -> Special Education Law)
+    *   Government Policy (Federal Education Regulations)
+    *   Professional Resources (for Educators, Administrators, Legal Professionals)
+    *   Parenting & Family (Sub-niche: Special Needs Advocacy Resources)
+*   **Reader Expectations for this Niche:**
+    *   **Absolute Accuracy:** Core text must be an exact replica of official "34 CFR 300."
+    *   **Authoritativeness & Reliability:** Must project trustworthiness.
+    *   **Clarity & Precision:** In original text and any supplementary material.
+    *   **Efficient Navigation:** A core promise for quick information retrieval.
+    *   **Currency:** Clear indication of the version and its up-to-dateness.
+    *   **Accessibility for Non-Professionals (within the technical context):** For users like parents, any supplementary text (introductions, glossaries) should be empathetic and aim for plain language to make the complex legal text manageable.
+
 ## 4. Unique Selling Proposition (USP)
 To provide an unparalleled navigation and user experience for "34 CFR 300" on Kindle by:
 *   **Advanced Hyperlinking:** Deep and intuitive internal linking between sections, definitions, and related provisions.
